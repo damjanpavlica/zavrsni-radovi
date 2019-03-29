@@ -37,3 +37,10 @@ izostavljena
 14. Pacijenti – doktori – zakazivanje
 15. Alarm clock
 16. Web site – responsive design
+
+Bonus:
+1. Kafici u okolini (Four Square API)
+2. CRUD aplikacija (https://reqres.in/)
+3. Pokemoni API
+4. Raspored radnika po smenama
+5. Gitub Issues page (Github API)
