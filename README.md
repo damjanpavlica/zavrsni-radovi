@@ -21,6 +21,8 @@ izostavljena
 
 ## Teme
 
+(napomena: moze Firebase umesto localStorage)
+
 1. Memory game
 2. Master mind – Skočko Skočko Tref
 3. Number guessing game (razne varijante)
@@ -35,12 +37,16 @@ izostavljena
 12. Pretraga piva (https://punkapi.com/)
 13. Meteo prognoza za pojedini grad i datum
 14. Pacijenti – doktori – zakazivanje
-15. Alarm clock
+15. Alarm clock (i prikaz casovnika)
 16. Web site – responsive design
+17. Elektronski dnevnik (unos ucena i racunanje proseka)
+18. Restoran (evidencija rezervacije stolova)
+19. Iks-oks igra
+20.Evidencija radnog vremena
+21. Slobodna tema
 
-Bonus:
+Bonus (zadaci iz firmi):
 1. Kafici u okolini (Four Square API)
 2. CRUD aplikacija (https://reqres.in/)
 3. Pokemoni API
-4. Raspored radnika po smenama
-5. Gitub Issues page (Github API)
+4. Gitub Issues page (Github API)
