@@ -18,3 +18,22 @@ Minimalni uslovi koje svaki projekat mora da ispunjava:
 - Kod mora identično raditi u Chrome i u Firefox pregledačima
 - Treba demonstrirati poznavanje HTML-a, CSS-a i JavaScript-a, nijednu tehnologiju ne sme biti
 izostavljena
+
+## Teme
+
+1. Memory game
+2. Master mind – Skočko Skočko Tref
+3. Number guessing game (razne varijante)
+4. Hang man – Vešanje
+5. Baza recepata (unos, pregled, brisanje, promena – localStorage)
+6. Baza kontakata (unos, pregled, brisanje, promena – localStorage)
+7. Baza filmova (unos, pregled, brisanje, promena – localStorage)
+8. Baza knjiga (unos, pregled, brisanje, promena – localStorage)
+9. Baza pesama – play liste (unos, pregled, brisanje, promena – localStorage)
+10. Kviz – (razne varijante)
+11. Pretraga filmova – varijanta sa stranama / multi page (search)
+12. Pretraga piva (https://punkapi.com/)
+13. Meteo prognoza za pojedini grad i datum
+14. Pacijenti – doktori – zakazivanje
+15. Alarm clock
+16. Web site – responsive design
