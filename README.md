@@ -1,27 +1,21 @@
 # Završni zadatak
 
-Molimo sve da pošalju link do svog github repozitorijuma na kojem će biti završni zadatak.
-Na repozitorijumu morate imati fajl readme.md koji ukratko opisuje projekat: šta je to što pravite i šta
-sve treba da radi.
+Potrebno je poslati link do github repozitorijuma na kojem će biti završni zadatak. Na repozitorijumu morate imati fajl README.md koji ukratko opisuje sta radi projekat i koje tehnologije se koriste (jezici i biblioteke).
 
-Pre nego se završe predavanja treba da na repozitorijumu imate minimum:
-- Detaljnu specifikaciju šta sve treba vaša aplikacija da radi
-- Listu metoda
-- Započete html, css i js fajlove i formiranu strukturu projekta
+## Uslovi
 
 Minimalni uslovi koje svaki projekat mora da ispunjava:
-- JavaScript mora imati bar 5-6 samostalno razvijenih metoda (ne prepisanih sa Interneta )
-- Moraju biti primenjena refactoring pravila koja su bila obrađena u toku obuke
+- JavaScript mora imati bar 5-6 samostalno napisanih funkcija (ne prepisanih sa interneta)
+- Moraju biti primenjena refactoring pravila (neki kodni standard) koja su obrađena u toku obuke
 - Za sve 3 tehnologije (JavaScript,HTML,CSS) moraju se poštovati standardi i prolaziti validatori.
   - HTML validacija obavezno
   - JavaScript ne sme izbacivati greške u konzoli.
 - Kod mora identično raditi u Chrome i u Firefox pregledačima
-- Treba demonstrirati poznavanje HTML-a, CSS-a i JavaScript-a, nijednu tehnologiju ne sme biti
-izostavljena
+- Treba demonstrirati poznavanje HTML-a, CSS-a i JavaScript-a, nijednu tehnologiju ne sme biti izostavljena
 
 ## Teme
 
-(napomena: moze Firebase umesto localStorage)
+Mozete izabrati bilo koji projekat koji zadovoljava uslove, a ovo su neke od ideja:
 
 1. Memory game
 2. Master mind – Skočko Skočko Tref
@@ -42,8 +36,9 @@ izostavljena
 17. Elektronski dnevnik (unos ucena i racunanje proseka)
 18. Restoran (evidencija rezervacije stolova)
 19. Iks-oks igra
-20.Evidencija radnog vremena
-21. Slobodna tema
+20. Evidencija radnog vremena
+
+(napomena: moze Firebase umesto localStorage)
 
 Bonus (zadaci iz firmi):
 1. Kafici u okolini (Four Square API)
