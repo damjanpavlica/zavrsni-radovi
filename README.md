@@ -42,6 +42,6 @@ Mozete izabrati bilo koji projekat koji zadovoljava uslove, a ovo su neke od ide
 
 Bonus (zadaci iz firmi):
 1. Kafici u okolini (Four Square API)
-2. CRUD aplikacija (https://reqres.in/)
+2. Korisnici CRUD aplikacija (https://reqres.in/)
 3. Pokemoni API
 4. Gitub Issues page (Github API)
