@@ -38,7 +38,7 @@ Mozete izabrati bilo koji projekat koji zadovoljava uslove, a ovo su neke od ide
 19. Iks-oks igra
 20. Evidencija radnog vremena (upisivanje odlaska i dolaska)
 
-(napomena: moze Firebase umesto localStorage)
+(napomena: moze se koristiti Firebase za bazu podataka umesto localStorage)
 
 Bonus (zadaci iz firmi):
 1. Kafici u okolini (Four Square API)
