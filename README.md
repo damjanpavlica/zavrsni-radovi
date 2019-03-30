@@ -37,6 +37,7 @@ Mozete izabrati bilo koji projekat koji zadovoljava uslove, a ovo su neke od ide
 18. Restoran (evidencija rezervacije stolova)
 19. Iks-oks igra
 20. Evidencija radnog vremena (upisivanje odlaska i dolaska)
+21. Kalkulator
 
 (napomena: moze se koristiti Firebase za bazu podataka umesto localStorage)
 
