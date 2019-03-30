@@ -36,7 +36,7 @@ Mozete izabrati bilo koji projekat koji zadovoljava uslove, a ovo su neke od ide
 17. Elektronski dnevnik (unos ucena i racunanje proseka)
 18. Restoran (evidencija rezervacije stolova)
 19. Iks-oks igra
-20. Evidencija radnog vremena
+20. Evidencija radnog vremena (upisivanje odlaska i dolaska)
 
 (napomena: moze Firebase umesto localStorage)
 
