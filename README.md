@@ -51,4 +51,14 @@ Bonus (zadaci iz firmi):
 
 - https://github.com/Andjelka90/Sajt-Zasticene-vrste
 - https://github.com/nemanjaburazer/zavrsni-rad
-- https://github.com/MilosAksic/RandomNumberProjekat
+- https://github.com/MilosAksic/random-number-projekat
+- https://github.com/Alek1305/zavrsi-rad-doktori-zakazivanje
+- https://github.com/b-b90/e-dnevnik/
+- https://bonadea88.github.io/zavrsni-rad/
+- https://github.com/Milos1993/zakazivanje-lekara-zavrsni-rad
+- https://jankobugarski.github.io/zavrsniRad/
+- https://marrybaz.github.io/web-site-zavrsni/
+- https://github.com/shtrole/zavrsni-rad-meteo-prognoza
+- https://github.com/mutko/coffee-shops-foursquareApi
+- https://github.com/stefancvetincanin/zavrsni-korisnici-crud
+- https://github.com/betman87/lottery-by-nikola-djuric
