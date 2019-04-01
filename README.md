@@ -46,3 +46,7 @@ Bonus (zadaci iz firmi):
 2. Korisnici CRUD aplikacija (https://reqres.in/)
 3. Pokemoni API
 4. Gitub Issues page (Github API)
+
+## Radovi
+
+- https://github.com/Andjelka90/Sajt-Zasticene-vrste
