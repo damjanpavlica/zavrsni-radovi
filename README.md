@@ -50,3 +50,5 @@ Bonus (zadaci iz firmi):
 ## Radovi
 
 - https://github.com/Andjelka90/Sajt-Zasticene-vrste
+- https://github.com/nemanjaburazer/zavrsni-rad
+- https://github.com/MilosAksic/RandomNumberProjekat
