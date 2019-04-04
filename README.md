@@ -49,7 +49,7 @@ Bonus (zadaci iz firmi):
 
 ## Radovi
 
-- Anđelka Jovanović https://github.com/Andjelka90/Sajt-Zasticene-vrste
+- Anđelka Jovanović https://github.com/Andjelka90/sajt-zasticene-vrste
 - Nemanja Burazer https://github.com/nemanjaburazer/zavrsni-rad
 - Miloš Aksić https://github.com/MilosAksic/random-number-projekat
 - Aleksandra Ilić https://github.com/Alek1305/zavrsi-rad-doktori-zakazivanje
@@ -66,3 +66,5 @@ Bonus (zadaci iz firmi):
 - Marko Jordanovic https://github.com/mrakaconi/Zavrsni-rad_Baza-kontakata-unos-pregled-brisanje-promena
 - Bojan Ivkovic https://github.com/B0jan93/Zavrsni-Rad
 - Nikola Jašić https://github.com/ewoksic/Zavrsni-rad
+- Marija Bozic https://github.com/majabozic/baza-filmova
+
