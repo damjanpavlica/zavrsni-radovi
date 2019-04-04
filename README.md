@@ -49,16 +49,20 @@ Bonus (zadaci iz firmi):
 
 ## Radovi
 
-- https://github.com/Andjelka90/Sajt-Zasticene-vrste
-- https://github.com/nemanjaburazer/zavrsni-rad
-- https://github.com/MilosAksic/random-number-projekat
-- https://github.com/Alek1305/zavrsi-rad-doktori-zakazivanje
-- https://github.com/b-b90/e-dnevnik/
-- https://bonadea88.github.io/zavrsni-rad/
-- https://github.com/Milos1993/zakazivanje-lekara-zavrsni-rad
-- https://jankobugarski.github.io/zavrsniRad/
-- https://marrybaz.github.io/web-site-zavrsni/
-- https://github.com/shtrole/zavrsni-rad-meteo-prognoza
-- https://github.com/mutko/coffee-shops-foursquareApi
-- https://github.com/stefancvetincanin/zavrsni-korisnici-crud
-- https://github.com/betman87/lottery-by-nikola-djuric
+- Anđelka Jovanović https://github.com/Andjelka90/Sajt-Zasticene-vrste
+- Nemanja Burazer https://github.com/nemanjaburazer/zavrsni-rad
+- Miloš Aksić https://github.com/MilosAksic/random-number-projekat
+- Aleksandra Ilić https://github.com/Alek1305/zavrsi-rad-doktori-zakazivanje
+- Bojan Brkić https://github.com/b-b90/e-dnevnik/
+- Anja Mišić https://github.com/bonadea88/zavrsni-rad
+- Miloš Đorđević https://github.com/Milos1993/zakazivanje-lekara-zavrsni-rad
+- Marija Bazović https://marrybaz.github.io/web-site-zavrsni/
+- Maja Bakarić https://github.com/shtrole/zavrsni-rad-meteo-prognoza
+- Branko Božović https://github.com/mutko/coffee-shops-foursquareApi
+- Stefan Cvetinčanin https://github.com/stefancvetincanin/zavrsni-korisnici-crud
+- Nikola Đurić https://github.com/betman87/lottery-by-nikola-djuric
+- Slobodan Josipović https://github.com/jankobugarski/zavrsniRad
+- Lazar Delić https://github.com/lazardelic/Baza-recepata
+- Marko Jordanovic https://github.com/mrakaconi/Zavrsni-rad_Baza-kontakata-unos-pregled-brisanje-promena
+- Bojan Ivkovic https://github.com/B0jan93/Zavrsni-Rad
+- Nikola Jašić https://github.com/ewoksic/Zavrsni-rad
