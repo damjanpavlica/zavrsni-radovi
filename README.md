@@ -67,4 +67,8 @@ Bonus (zadaci iz firmi):
 - Bojan Ivkovic https://github.com/B0jan93/Zavrsni-Rad
 - Nikola Jašić https://github.com/ewoksic/Zavrsni-rad
 - Marija Bozic https://github.com/majabozic/baza-filmova
-
+- Ivan Antić https://github.com/pera-kojot-genije/zavrsni-rad 
+- Darko Bešević https://github.com/DarkoBesevic/Zavrsni-rad
+- Dragan Janković https://github.com/sukhoidragan/pretragaserija
+- Nebojsa Jankovic https://github.com/leutino/Baza_piva
+- Marko Jevtovic https://github.com/jevta/ProdajaKuca
