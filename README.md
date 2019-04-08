@@ -56,7 +56,7 @@ Bonus (zadaci iz firmi):
 - Bojan Brkić https://github.com/b-b90/e-dnevnik/
 - Anja Mišić https://github.com/bonadea88/zavrsni-rad
 - Miloš Đorđević https://github.com/Milos1993/zakazivanje-lekara-zavrsni-rad
-- Marija Bazović https://marrybaz.github.io/web-site-zavrsni/
+- Marija Bazović https://github.com/marrybaz/web-site-zavrsni
 - Maja Bakarić https://github.com/shtrole/zavrsni-rad-meteo-prognoza
 - Branko Božović https://github.com/mutko/coffee-shops-foursquareApi
 - Stefan Cvetinčanin https://github.com/stefancvetincanin/zavrsni-korisnici-crud
