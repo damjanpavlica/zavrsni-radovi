@@ -6,7 +6,7 @@ Potrebno je poslati link do github repozitorijuma na kojem će biti završni zad
 
 Minimalni uslovi koje svaki projekat mora da ispunjava:
 - JavaScript mora imati bar 5-6 samostalno napisanih funkcija (ne prepisanih sa interneta)
-- Moraju biti primenjena refactoring pravila (neki kodni standard) koja su obrađena u toku obuke
+- Moraju biti primenjena refactoring pravila koja su obrađena u toku obuke i kod mora biti ispravno formatiran
 - Za sve 3 tehnologije (JavaScript,HTML,CSS) moraju se poštovati standardi i prolaziti validatori.
   - HTML validacija obavezno
   - JavaScript ne sme izbacivati greške u konzoli.
