@@ -50,6 +50,8 @@ Bonus (zadaci iz firmi):
 3. Pokemoni API
 4. Gitub Issues page (Github API)
 
+Ko je izabrao Resposive Website, obavezan je *Mobile first* pristup.
+
 ## Radovi
 
 - Anđelka Jovanović https://github.com/Andjelka90/sajt-zasticene-vrste
